@@ -1,5 +1,5 @@
 ---
-title: 逐步搭建现代大一统终端（Alacritty +Zellij -> WezTerm）
+title: 逐步搭建现代大一统终端（Alacritty + Zellij -> WezTerm）
 zhihu-url: https://zhuanlan.zhihu.com/p/436024560
 zhihu-title-image: images/cmd/alacritty.png
 zhihu-tags: Linux, macOS

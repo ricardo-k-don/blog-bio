@@ -1,13 +1,13 @@
 ---
-title: Markdown 语法
+title: Markdown 基本语法
 zhihu-url: https://zhuanlan.zhihu.com/p/139141155
 zhihu-title-image: images/vscode/md-preview.png
 zhihu-tags: Markdown, Markdown 语法, Visual Studio Code
 ---
 
-# Markdown 语法
+# Markdown 基本语法
 
-Markdown 是一种轻量级的标记语言（markup language），由 John Gruber（1973 ∼）与 Aaron Swartz （1986 ∼ 2013）于 2004 年创造，被网站用于编写说明文件（readme）、技术文档或在论坛上发布信息。由于其语法简单，易于读写，且编写出的作品简洁美观，目前也被越来越多的人群用于日常写作、发布电子书甚至书写电子邮件。可说，Markdown 是极简主义（minimalism）的代表作品。
+Markdown 是一种轻量级的标记语言（markup language），由 John Gruber（1973 ∼）与 Aaron Swartz（1986 ∼ 2013）于 2004 年创造，被网站用于编写说明文件（readme）、技术文档或在论坛上发布信息。由于其语法简单，易于读写，且编写出的作品简洁美观，目前也被越来越多的人群用于日常写作、发布电子书甚至书写电子邮件。可说，Markdown 是极简主义（minimalism）的代表作品。
 
 简单说，Markdown 有如下优势：
 

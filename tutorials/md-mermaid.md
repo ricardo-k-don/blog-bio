@@ -1,11 +1,11 @@
 ---
-title: Mermaid 绘图
+title: Markdown 绘图（Mermaid）
 zhihu-url: https://zhuanlan.zhihu.com/p/139166407
 zhihu-title-image: images/vscode/md-mermaid.png
 zhihu-tags: Markdown, Markdown 语法, Visual Studio Code
 ---
 
-# Mermaid 绘图
+# Markdown 绘图
 
 当撰写文档的时候，需要使用第三方工具绘制流程图，然后再将流程图导入 Markdown 有时会显得特别繁琐。Mermaid.js 可用于解决这一痛点。简单说，Mermaid.js 可看成是 Markdown 文档中一款绘图插件，其语法完全是 markdownish 的，绘图时不需要切换软件，也不需要切换思维。下面给出几个例子，大家可感受一下，Mermaid.js 的简洁优雅。
 

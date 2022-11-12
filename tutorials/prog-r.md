@@ -89,7 +89,7 @@ conda install r-ggplot2
 
 ### 2.3. 自定义快捷键
 
-作为一个 Python 用户，有时候挺为 R 语言中的"<-"烦心的。针对这个问题，可在 File-Preference 里的 Keyboard Shortcuts （快捷键是 CTRL+K CTRL+S）调整。在下图界面中点击右上角红框中的按钮，进入 keybindings.json，加入如下语句：
+作为一个 Python 用户，有时候挺为 R 语言中的"<-"烦心的。针对这个问题，可在 File-Preference 里的 Keyboard Shortcuts（快捷键是 CTRL+K CTRL+S）调整。在下图界面中点击右上角红框中的按钮，进入 keybindings.json，加入如下语句：
 
 ```json
 [
