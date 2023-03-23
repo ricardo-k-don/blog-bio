@@ -339,7 +339,7 @@ scoop install nu
 
 鉴于当下，Zellij 目前拒绝支持 Windows，Alacritty 对用户的要求响应很慢，个人项目已用 WezTerm 取代 Alacritty + Zellij，以统一三大平台配置。
 
-![Oxidizer](images/cmd/oxidizer.png)
+![Oxidizer](https://raw.githubusercontent.com/ivaquero/backup/main/docs/oxidizer.png)
 
 > 在 macOS 上，WezTerm 的速度只有 Alacritty 的一半，但是，完整实现了跨平台，多标签，配置上采用 Lua，更灵活。
 
