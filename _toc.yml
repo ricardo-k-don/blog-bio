@@ -32,7 +32,6 @@ parts:
       - file: base-linear-algebra/14-线性凸优化
       - file: base-linear-algebra/15-线性测度
       - file: base-linear-algebra/16-数值方法与递归
-      - file: base-linear-algebra/17-空间中的虚实
   - caption: 统计基础
     chapters:
       - file: base-stats/01-概率与分布
