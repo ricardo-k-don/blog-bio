@@ -31,11 +31,8 @@ parts:
       - file: base-linear-algebra/13-函数的变化率
       - file: base-linear-algebra/14-线性凸优化
       - file: base-linear-algebra/15-线性测度
-      - file: base-linear-algebra/16-线性自治系统的卷积
-      - file: base-linear-algebra/17-基变换
-      - file: base-linear-algebra/18-复线性空间
-      - file: base-linear-algebra/19-数值方法与递归
-      - file: base-linear-algebra/空间中的虚实
+      - file: base-linear-algebra/16-数值方法与递归
+      - file: base-linear-algebra/17-空间中的虚实
   - caption: 统计基础
     chapters:
       - file: base-stats/01-概率与分布
